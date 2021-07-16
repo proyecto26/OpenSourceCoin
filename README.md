@@ -1,5 +1,5 @@
 # OpenSourceCoin
-A cryptocurrency for Open Source Contributors
+Support Open Source Contributors to create inclusive projects based on `Blockchain` that seek to change the world with small contributions 🧚
 
 ## Contributing ✨
 When contributing to this repository, please first discuss the change you wish to make via issue, email, or any other method with the owners of this repository before making a change.  
